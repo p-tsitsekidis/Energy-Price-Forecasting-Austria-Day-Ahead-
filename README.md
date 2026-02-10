@@ -7,7 +7,7 @@ Moving beyond standard time-series analysis, this project iterates through Linea
 
 ## Key Results
 - **Final Model:** XGBoost Regressor (Gradient Boosting)
-- **Performance:** RMSE ~16.62 (Significant improvement over the ARIMA baseline of ~20.15)
+- **Performance:** RMSE ~16.62 (Small improvment over ARIMA)
 - **Trading Strategy:** Dynamic Percentile Arbitrage (Market Neutral)
 - **Outcome:** Positive PnL in backtesting (see notebook for equity curve).
 
